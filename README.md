@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+Welcome to my github profile, I'm a self taugh programmer learning react, Typescript and everything I can about JS. 
+Feel free to take a look at my [portifolio](https://yasumitsu.github.io/).
 <!--
 **yasumitsu/yasumitsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
