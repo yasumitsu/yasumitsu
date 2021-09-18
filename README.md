@@ -31,7 +31,7 @@ Welcome to my github profile, I'm a self taugh programmer learning react, Typesc
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasumitsu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasumitsu&layout=compact)
 
 
 ---
